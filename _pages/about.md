@@ -13,7 +13,7 @@ My research focuses on turning microwave data collected from telescopes into ins
 
 **Bio**
 
-Starting fromt this fall, I will be a KIPAC fellow at Stanfor University.
+Starting fromt this fall, I will be a KIPAC fellow at Stanford University.
 
 
 * 2019-2023: PhD at DAMTP and KICC. University of Cambridge
