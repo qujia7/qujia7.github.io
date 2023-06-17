@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-##  Papers led or co-led( first, second or third author papers orequivalent collaboration papers)
+##  Papers led or co-led( first, second or third author papers or equivalent collaboration papers)
 
 1. **Frank J. Qu**, Blake D. Sherwin, Mathew Madhavacheril, Dongwon Han et al. (2023) **The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Implications for Structure Growth** *ApJ to appear*  [preprint](https://arxiv.org/abs/2304.05202)
 2. Mathew Madhavacheril, **Frank J. Qu**, Blake D. Sherwin, Niall MacCrann et al. (2023) **The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters** *ApJ to appear* [preprint](https://arxiv.org/abs/2304.05203 )
