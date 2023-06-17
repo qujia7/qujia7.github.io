@@ -16,6 +16,12 @@ author_profile: true
 * Center for Theoretical Physics Seoul National University Seminar 26/04/2023
 * [Conference talk. Yukawa Institute for Theoretical Physics, Kyoto University. Future Science with CMB x LSS](https://docs.google.com/presentation/d/1bjm3tzQlwkc1hxzQ74U4GjYw49_wDWku0gZIuvebi1Q/edit#slide=id.g22cac33634a_2_25) 12/04/2023
 
+**In the news**
+* [Scientists create vast map of dark matter in the universe. Independent](https://www.independent.co.uk/space/dark-matter-universe-cosmos-act-einstein-b2317825.html) 
+* [This Strange New Map Of ‘Dark Matter’ Proves Einstein Was Right, Say Scientists. Forbes](https://www.forbes.com/sites/jamiecartereurope/2023/04/11/this-strange-new-map-of-dark-matter-proves-einstein-was-right-say-scientists/?sh=3a846ac073bd)
+
+
+
 
 
 
