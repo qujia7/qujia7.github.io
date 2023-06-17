@@ -16,6 +16,9 @@ author_profile: true
 * Cosmology Group at the Korea Astronomy and Space Science Institute Seminar 27/04/2023
 * Center for Theoretical Physics Seoul National University Seminar 26/04/2023
 * [Conference talk. Yukawa Institute for Theoretical Physics, Kyoto University. Future Science with CMB x LSS](https://docs.google.com/presentation/d/1bjm3tzQlwkc1hxzQ74U4GjYw49_wDWku0gZIuvebi1Q/edit#slide=id.g22cac33634a_2_25) 12/04/2023
+* Conference talk. Cosmo 2022, Rio de Janeiro, Brazil. 26/08/2022
+* Conference talk. BCCP summer workshop, Vipolze, Slovenia. 19/07/2022
+* [Rencontres de Moriond, La Thuile, Aosta Valley, Italy](https://moriond.in2p3.fr/2022/Cosmology/Program.html) 27/01/2022
 
 **In the news**
 * Scientists create vast map of dark matter in the universe. [Independent](https://www.independent.co.uk/space/dark-matter-universe-cosmos-act-einstein-b2317825.html) 
