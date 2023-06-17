@@ -16,3 +16,13 @@ author_profile: true
 3. Niall MacCrann, Blake D. Sherwin, **Frank J. Qu**, Toshiya Namikawa et al. (2023) **The Atacama Cosmology Telescope: Mitigating the impact of extragalactic foregrounds for the DR6 CMB lensing analysis** *ApJ to appear* [preprint](https://arxiv.org/abs/2304.05196)
 4. **Frank J. Qu**, Anthony Challinor, Blake D. Sherwin (2022) **CMB lensing with shear-only reconstruction on the full sky** *PhysRevD to appear* [preprint](https://arxiv.org/abs/2208.14988 )
 5. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** *PhysRevD to appear*  [preprint](https://arxiv.org/abs/arXiv:2208.04253)
+
+## Papers as part of main science collaboration
+
+6. Zachary Atkins, Adriaan J. Duivenvoorden, William R. Coulton, **Frank J. Qu** et al (2023) **The Atacama Cosmology Telescope: Map-Based Noise Simulations for DR6** 
+[preprint](https://arxiv.org/abs/arXiv:2303.04180)
+7. Steve K. Choi et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz
+[preprint](https://arxiv.org/abs/arXiv:2007.07289)
+8. Simone Aiola et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters. [preprint](https://arxiv.org/abs/arXiv:2007.07288 )
+9. Omar Darwish et al (incl. **Frank J Qu**) (2020) A CMB lensing mass map over 2100 square degrees of sky and its cross-correlation with BOSS-CMASS galaxies [preprint](https://arxiv.org/abs/arXiv:2004.01139 )
+10. Toshiya Namikawa et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: Constraints on Cosmic Birefringence [preprint](https://arxiv.org/abs/arXiv:2001.10465)
