@@ -5,6 +5,3 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Invited talks**
-
-* Test
