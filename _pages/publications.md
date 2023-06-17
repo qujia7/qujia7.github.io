@@ -25,11 +25,11 @@ author_profile: true
 [preprint](https://arxiv.org/abs/arXiv:2112.13839)
 7. J. Colin Hill, et al (incl. **Frank J Qu**) (2022) The Atacama Cosmology Telescope: Constraints on Pre-Recombination Early Dark Energy. *PhysRevD*
 [preprint](https://arxiv.org/abs/arXiv:2109.04451)
-7. Mathew S. Madhavacheril, et al (incl. **Frank J Qu**) (2021) The Atacama Cosmology Telescope: Weighing distant clusters with the most ancient light. *ApJl*
+7. Mathew S. Madhavacheril, et al (incl. **Frank J Qu**) (2021) The Atacama Cosmology Telescope: Weighing distant clusters with the most ancient light. *ApJL*
 [preprint](https://arxiv.org/abs/arXiv:2009.07772 )
-7. Dongwon Han et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: Delensed Power Spectra and Parameters [preprint](https://arxiv.org/abs/arXiv:2007.14405)
-7. Steve K. Choi et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz
+7. Dongwon Han et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: Delensed Power Spectra and Parameters. *JCAP* [preprint](https://arxiv.org/abs/arXiv:2007.14405)
+7. Steve K. Choi et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz. *JCAP*
 [preprint](https://arxiv.org/abs/arXiv:2007.07289)
-8. Simone Aiola et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters. [preprint](https://arxiv.org/abs/arXiv:2007.07288 )
-9. Omar Darwish et al (incl. **Frank J Qu**) (2020) A CMB lensing mass map over 2100 square degrees of sky and its cross-correlation with BOSS-CMASS galaxies [preprint](https://arxiv.org/abs/arXiv:2004.01139 )
-10. Toshiya Namikawa et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: Constraints on Cosmic Birefringence [preprint](https://arxiv.org/abs/arXiv:2001.10465)
+8. Simone Aiola et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters. *JCAP*[preprint](https://arxiv.org/abs/arXiv:2007.07288 )
+9. Omar Darwish et al (incl. **Frank J Qu**) (2020) A CMB lensing mass map over 2100 square degrees of sky and its cross-correlation with BOSS-CMASS galaxies. *MNRAS* [preprint](https://arxiv.org/abs/arXiv:2004.01139 )
+10. Toshiya Namikawa et al (incl. **Frank J Qu**) (2020) The Atacama Cosmology Telescope: Constraints on Cosmic Birefringence. *PhysRevD* [preprint](https://arxiv.org/abs/arXiv:2001.10465)
