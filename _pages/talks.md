@@ -5,9 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Talks**
+**Selected Talks**
 * German Centre for Cosmological Lensing (GCCL) virtual seminar 16/06/2023
 * Cosmology lunch seminar at CITA 26/05/2023
+* Advanced ACT Lensing Cosmology (the best high redshift, large scale take on the S₈ tension) [Cosmology Talks](https://www.youtube.com/watch?v=pB6mwj_V37c&t=1632s&ab_channel=CosmologyTalks) 25/05/2023
 * LSST DESC seminar 24/05/2023
 * [Stanford KIPAC tea talk](https://kipac.stanford.edu/events/cosmology-high-precision-cmb-lensing-measurements-atacama-cosmology-telescope) 19/05/2023
 * [Physics Division at Lawrence Berkeley National Laboratory Research Progress Meeting](https://physicstalks.lbl.gov/Public/h/20230518-Frank_Qu.html) 18/05/2023
