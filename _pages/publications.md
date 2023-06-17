@@ -21,7 +21,7 @@ author_profile: true
 
 6. Zachary Atkins, Adriaan J. Duivenvoorden, William R. Coulton, **Frank J. Qu** et al (2023) **The Atacama Cosmology Telescope: Map-Based Noise Simulations for DR6** 
 [preprint](https://arxiv.org/abs/arXiv:2303.04180)
-7. Zack Li, et al (incl. **Frank J Qu**) (2022) The Simons Observatory: a new open-source power spectrum pipeline applied to the Planck legacy data *PhysRevD*
+7. Zack Li, et al (incl. **Frank J Qu**) (2022) The Simons Observatory: a new open-source power spectrum pipeline applied to the Planck legacy data.
 [preprint](https://arxiv.org/abs/arXiv:2112.13839)
 7. J. Colin Hill, et al (incl. **Frank J Qu**) (2022) The Atacama Cosmology Telescope: Constraints on Pre-Recombination Early Dark Energy. *PhysRevD*
 [preprint](https://arxiv.org/abs/arXiv:2109.04451)
