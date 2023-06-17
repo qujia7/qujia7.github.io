@@ -18,7 +18,7 @@ Starting fromt this fall, I will be a KIPAC fellow at Stanford University.
 
 * 2019-2023: PhD at DAMTP and KICC. University of Cambridge
 * 2018-2019: MASt in applied mathematics and theoretical physics. University of Cambridge
-* 2015-2018: Bsc in physics at Imperial College London
+* 2015-2018: BSc in physics at Imperial College London
 
 I was born in [Hailar](https://en.wikipedia.org/wiki/Hailar_District) but I have lived most of my life in Madrid, Spain.
 
