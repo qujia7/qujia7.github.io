@@ -16,6 +16,10 @@ author_profile: true
 * Cosmology Group at the Korea Astronomy and Space Science Institute Seminar 27/04/2023
 * Center for Theoretical Physics Seoul National University Seminar 26/04/2023
 * [Conference talk. Yukawa Institute for Theoretical Physics, Kyoto University. Future Science with CMB x LSS](https://docs.google.com/presentation/d/1bjm3tzQlwkc1hxzQ74U4GjYw49_wDWku0gZIuvebi1Q/edit#slide=id.g22cac33634a_2_25) 12/04/2023
+* Tri-State Cosmology x Data Science talk Center for Computational Astrophysics,  Flatiron Institute 09/12/2022
+* Princeton University Gravity Group meeting  02/12/2022
+* [Stanford KIPAC tea talk](https://kipac.stanford.edu/events/aganze-detecting-gaps-globular-cluster-streams-m31-and-other-external-galaxies-nancy-grace) 11/11/2022
+* [BCCP/Cosmology Seminar](/https://cosmology.lbl.gov/talks/FQu_22.pdf) 08/11/2022
 * Conference talk. Cosmo 2022, Rio de Janeiro, Brazil. 26/08/2022
 * Conference talk. BCCP summer workshop, Vipolze, Slovenia. 19/07/2022
 * [Rencontres de Moriond, La Thuile, Aosta Valley, Italy](https://moriond.in2p3.fr/2022/Cosmology/Program.html) 27/01/2022
