@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Selected Talks**
+* SO:UK Collaboration meeting (Cambridge) 16/06/2023
 * German Centre for Cosmological Lensing (GCCL) virtual seminar 16/06/2023
 * Cosmology lunch seminar at CITA 26/05/2023
 * Advanced ACT Lensing Cosmology (the best high redshift, large scale take on the S₈ tension) [Cosmology Talks](https://www.youtube.com/watch?v=pB6mwj_V37c&t=1632s&ab_channel=CosmologyTalks) 25/05/2023
