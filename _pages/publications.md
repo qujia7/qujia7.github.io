@@ -14,13 +14,15 @@ author_profile: true
 1. **Frank J. Qu**, Blake D. Sherwin, Mathew Madhavacheril, Dongwon Han et al. (2023) **The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Implications for Structure Growth** *ApJ to appear*  [preprint](https://arxiv.org/abs/2304.05202)
 2. Mathew Madhavacheril, **Frank J. Qu**, Blake D. Sherwin, Niall MacCrann et al. (2023) **The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters** *ApJ to appear* [preprint](https://arxiv.org/abs/2304.05203 )
 3. Niall MacCrann, Blake D. Sherwin, **Frank J. Qu**, Toshiya Namikawa et al. (2023) **The Atacama Cosmology Telescope: Mitigating the impact of extragalactic foregrounds for the DR6 CMB lensing analysis** *ApJ to appear* [preprint](https://arxiv.org/abs/2304.05196)
-4. **Frank J. Qu**, Anthony Challinor, Blake D. Sherwin (2022) **CMB lensing with shear-only reconstruction on the full sky** *PhysRevD to appear* [preprint](https://arxiv.org/abs/2208.14988 )
-5. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123540)
+4. Zachary Atkins, Adriaan J. Duivenvoorden, William R. Coulton, **Frank J. Qu** et al (2023) **The Atacama Cosmology Telescope: Map-Based Noise Simulations for DR6** 
+[preprint](https://arxiv.org/abs/arXiv:2303.04180)
+5. **Frank J. Qu**, Anthony Challinor, Blake D. Sherwin (2022) **CMB lensing with shear-only reconstruction on the full sky** *PhysRevD to appear* [preprint](https://arxiv.org/abs/2208.14988 )
+6. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123540)
 
 ## Papers as part of main science collaboration
 
-6. Zachary Atkins, Adriaan J. Duivenvoorden, William R. Coulton, **Frank J. Qu** et al (2023) **The Atacama Cosmology Telescope: Map-Based Noise Simulations for DR6** 
-[preprint](https://arxiv.org/abs/arXiv:2303.04180)
+7. G. Farren, et al (incl. **Frank J Qu**) (2023) Cosmology from cross-correlations of unWISE galaxies and ACT DR6 CMB lensing
+[preprint](https://arxiv.org/abs/2309.05659)
 7. Zack Li, et al (incl. **Frank J Qu**) (2022) The Simons Observatory: a new open-source power spectrum pipeline applied to the Planck legacy data.
 [preprint](https://arxiv.org/abs/arXiv:2112.13839)
 7. J. Colin Hill, et al (incl. **Frank J Qu**) (2022) The Atacama Cosmology Telescope: Constraints on Pre-Recombination Early Dark Energy. *PhysRevD*
