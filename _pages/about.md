@@ -14,7 +14,7 @@ I am a member of the Simons Observatiory and the Atacama Cosmology Telescope.
 
 **About me**
 
-Starting fromt this fall, I will be a KIPAC fellow at Stanford University.
+Starting from this fall, I will be a KIPAC fellow at Stanford University.
 
 
 * 2019-2023: PhD at DAMTP and KICC. University of Cambridge
