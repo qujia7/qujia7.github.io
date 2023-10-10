@@ -21,6 +21,6 @@ Starting fromt this fall, I will be a KIPAC fellow at Stanford University.
 * 2018-2019: MASt in applied mathematics and theoretical physics. University of Cambridge
 * 2015-2018: BSc in physics at Imperial College London
 
-I was born in [Hailar](https://en.wikipedia.org/wiki/Hailar_District) although I had the pleasure to live most of my life in Madrid, Spain.
+I was originally from [Hailar](https://en.wikipedia.org/wiki/Hailar_District) and I have lived most of my life in Spain 🇪🇸 Æ
 
 
