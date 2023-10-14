@@ -10,7 +10,7 @@ redirect_from:
 I am a final year PhD student in cosmology at the University of Cambridge working with Blake Sherwin. 
 My research focuses on turning microwave data collected from telescopes into insights about our Universe.
 
-I am a member of the Simons Observatiory and the Atacama Cosmology Telescope.
+I am a member of the Simons Observatory and the Atacama Cosmology Telescope.
 
 **About me**
 
