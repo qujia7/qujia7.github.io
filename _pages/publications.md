@@ -23,6 +23,12 @@ author_profile: true
 
 7. G. Farren, et al (incl. **Frank J Qu**) (2023) Cosmology from cross-correlations of unWISE galaxies and ACT DR6 CMB lensing
 [preprint](https://arxiv.org/abs/2309.05659)
+7. S. Shaikh, et al (incl. **Frank J Qu**) (2023) Cosmology from Cross-Correlation of ACT-DR4 CMB Lensing and DES-Y3 Cosmic Shear
+[preprint](https://arxiv.org/abs/2309.04412)
+7. W. Coulton, et al (incl. **Frank J Qu**) (2023) The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky
+[preprint](https://arxiv.org/abs/2307.01258)
+7. G. A Marques, et al (incl. **Frank J Qu**) (2023) Cosmological constraints from the tomography of DES-Y3 galaxies with CMB lensing from ACT DR4
+[preprint](https://arxiv.org/abs/2306.17268)
 7. Zack Li, et al (incl. **Frank J Qu**) (2022) The Simons Observatory: a new open-source power spectrum pipeline applied to the Planck legacy data.
 [preprint](https://arxiv.org/abs/arXiv:2112.13839)
 7. J. Colin Hill, et al (incl. **Frank J Qu**) (2022) The Atacama Cosmology Telescope: Constraints on Pre-Recombination Early Dark Energy. *PhysRevD*
