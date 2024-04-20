@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD in cosmology at the University of Cambridge working with Blake Sherwin. 
+I am a Postdoctoral Fellow in cosmology at the University of Cambridge working with Blake Sherwin. 
 My research focuses on turning microwave data collected from telescopes into insights about our Universe.
 
 I am a member of the Simons Observatory and the Atacama Cosmology Telescope.
