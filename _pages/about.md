@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+> *Ponerme, si me place, el sombrero al revés, batirme por capricho o hacer un entremés.*
+>  
+> -- Cyrano de Bergerac
+
 I am a Postdoctoral Fellow in cosmology at the University of Cambridge working with Blake Sherwin. 
 My research focuses on turning microwave data collected from telescopes into insights about our Universe.
 
