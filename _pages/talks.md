@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Selected Talks**
+* [Rencontres de Moriond 2024](https://moriond.in2p3.fr/2024/Cosmology/cosmology-agenda.html) 01/04/2024
 * [Rencontres du Vietnam 2023](http://vietnam.in2p3.fr/2023/windows/transparencies/02_tuesday/Astro_4/01_Qu.pdf) 08/08/2023
 * SO:UK Collaboration meeting (Cambridge) 16/06/2023
 * German Centre for Cosmological Lensing (GCCL) virtual seminar 16/06/2023

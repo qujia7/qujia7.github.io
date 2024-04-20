@@ -19,8 +19,10 @@ author_profile: true
 5. **Frank J. Qu**, Anthony Challinor, Blake D. Sherwin (2022) **CMB lensing with shear-only reconstruction on the full sky** *PhysRevD to appear* [preprint](https://arxiv.org/abs/2208.14988 )
 6. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123540)
 
-## Papers as part of main science collaboration
-
+## Papers that I am a contributing author
+7. Alex Laguë, Fiona McCarthy, Mathew Madhavacheril, J. Colin Hill, **Frank J Qu** (2024) Constraints on Dark Matter-Dark Energy Scattering from ACT DR6 CMB Lensing
+7. L. Wenzl, et al (incl. **Frank J Qu**) (2024) Constraining gravity with a new precision $E_g$ estimator using *Planck*+ SDSS BOSS   
+7. W. Coulton, et al (incl. **Frank J Qu**) (2024) The Atacama Cosmology Telescope: Detection of Patchy Screening of the Cosmic Microwave Background
 7. G. Farren, et al (incl. **Frank J Qu**) (2023) Cosmology from cross-correlations of unWISE galaxies and ACT DR6 CMB lensing
 [preprint](https://arxiv.org/abs/2309.05659)
 7. S. Shaikh, et al (incl. **Frank J Qu**) (2023) Cosmology from Cross-Correlation of ACT-DR4 CMB Lensing and DES-Y3 Cosmic Shear
