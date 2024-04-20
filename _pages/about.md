@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-*Ponerme, si me place, el sombrero al revés, batirme por capricho o hacer un entremés.*
-
--- Cyrano de Bergerac
+<blockquote style="font-style: italic; border-left: 4px solid #ccc; padding-left: 1em; color: #666;">
+  Ponerme, si me place, el sombrero al revés, batirme por capricho o hacer un entremés.
+  <cite style="display: block; text-align: right; color: #999;">-- Cyrano de Bergerac</cite>
+</blockquote>
 
 
 I am a Postdoctoral Fellow in cosmology at the University of Cambridge working with Blake Sherwin. 
