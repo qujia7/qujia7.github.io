@@ -28,7 +28,7 @@ Starting from this fall, I will be a KIPAC fellow at Stanford University.
 * 2018-2019: MASt in applied mathematics and theoretical physics. University of Cambridge
 * 2015-2018: BSc in physics at Imperial College London
 
-I am Spanish 🇪🇸 Æ and I was born in <a href="https://en.wikipedia.org/wiki/Hailar_District" style="text-decoration: none;">Hailar</a>.
+I am Spanish 🇪🇸 Æ and I was born in [Hailar](https://en.wikipedia.org/wiki/Hailar_District).
 
 I can be reached at jq247[at]cantab[dot]ac[dot]uk
 
