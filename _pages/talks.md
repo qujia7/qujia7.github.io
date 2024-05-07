@@ -33,6 +33,5 @@ author_profile: true
 
 
 
-
-
-
+<h2>A map of all the places I've given a talk</h2>
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
