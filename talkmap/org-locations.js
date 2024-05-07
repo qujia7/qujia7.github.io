@@ -23,6 +23,6 @@ var addressPoints = [
   ['Oxford', 51.7520,-1.2577],
   ['Vienna', 48.210033,  16.363449],
   ['Smartno', 46.0047, 13.5541],
-  ['Toronto CITA', 43.6532, -79.3832]
-  
+  ['Toronto CITA', 43.6532, -79.3832],
+  ['Centro de Ciencias Pedro Pascual', 42.6043, 0.5228]
 ];
