@@ -17,7 +17,7 @@ author_profile: true
 4. Zachary Atkins, Adriaan J. Duivenvoorden, William R. Coulton, **Frank J. Qu** et al (2023) **The Atacama Cosmology Telescope: Map-Based Noise Simulations for DR6**
 *[JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2023/11/073/meta)*
 [preprint](https://arxiv.org/abs/arXiv:2303.04180)
-5. **Frank J. Qu**, Anthony Challinor, Blake D. Sherwin (2022) **CMB lensing with shear-only reconstruction on the full sky** *PhysRevD to appear* [preprint](https://arxiv.org/abs/2208.14988 )
+5. **Frank J. Qu**, Anthony Challinor, Blake D. Sherwin (2022) **CMB lensing with shear-only reconstruction on the full sky** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.063518) [preprint](https://arxiv.org/abs/2208.14988 ) 
 6. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123540)
 
 ## Papers where I am a contributing author
