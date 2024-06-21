@@ -11,7 +11,7 @@ author_profile: true
 
 ##  Papers led or co-led (first, second or third author papers or equivalent collaboration papers)
 
-1. Niall MacCrann, **Frank J. Qu**, Toshiya Namikawa (2024) **The Atacama Cosmology Telescope: Reionization kSZ trispectrum methodology and limits** *MNRAS to appear*  [preprint](https://arxiv.org/abs/2405.01188)
+1. Niall MacCrann, **Frank J. Qu**, Toshiya Namikawa et al. (2024) **The Atacama Cosmology Telescope: Reionization kSZ trispectrum methodology and limits** *MNRAS to appear*  [preprint](https://arxiv.org/abs/2405.01188)
 
 1. **Frank J. Qu**, Kristen M. Surrao, Boris Bolliet et al. (2024) **Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing** *Submitted to PRL*  [preprint](https://arxiv.org/pdf/2404.16805)
 2. Mathew Madhavacheril, **Frank J. Qu**, Blake D. Sherwin, Niall MacCrann et al. (2023) **The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/acff5f)*  [preprint](https://arxiv.org/abs/2304.05203 )
