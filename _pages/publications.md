@@ -11,7 +11,9 @@ author_profile: true
 
 ##  Papers led or co-led (first, second or third author papers or equivalent collaboration papers)
 
-1. **Frank J. Qu**, Blake D. Sherwin, Mathew Madhavacheril, Dongwon Han et al. (2023) **The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Implications for Structure Growth** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/acfe06)*  [preprint](https://arxiv.org/abs/2304.05202)
+1. Niall MacCrann,**Frank J. Qu**, Toshiya Namikawa (2024) **The Atacama Cosmology Telescope: Reionization kSZ trispectrum methodology and limits** *MNRAS to appear*  [preprint](https://arxiv.org/abs/2405.01188)
+
+1. **Frank J. Qu**, Kristen M. Surrao, Boris Bolliet et al. (2024) **Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing** *Submitted to PRL*  [preprint](https://arxiv.org/pdf/2404.16805)
 2. Mathew Madhavacheril, **Frank J. Qu**, Blake D. Sherwin, Niall MacCrann et al. (2023) **The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/acff5f)*  [preprint](https://arxiv.org/abs/2304.05203 )
 3. Niall MacCrann, Blake D. Sherwin, **Frank J. Qu**, Toshiya Namikawa et al. (2023) **The Atacama Cosmology Telescope: Mitigating the impact of extragalactic foregrounds for the DR6 CMB lensing analysis** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/ad2610)*  [preprint](https://arxiv.org/abs/2304.05196)
 4. Zachary Atkins, Adriaan J. Duivenvoorden, William R. Coulton, **Frank J. Qu** et al (2023) **The Atacama Cosmology Telescope: Map-Based Noise Simulations for DR6**
@@ -21,6 +23,7 @@ author_profile: true
 6. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123540)
 
 ## Papers where I am a contributing author
+7. L. Wenzl, et al (incl. **Frank J Qu**) (2024) The Atacama Cosmology Telescope: DR6 Gravitational Lensing and SDSS BOSS cross-correlation measurement and constraints on gravity with the Eg statistic
 7. Alex Laguë, Fiona McCarthy, Mathew Madhavacheril, J. Colin Hill, **Frank J Qu** (2024) Constraints on Dark Matter-Dark Energy Scattering from ACT DR6 CMB Lensing
 7. L. Wenzl, et al (incl. **Frank J Qu**) (2024) Constraining gravity with a new precision $E_g$ estimator using *Planck*+ SDSS BOSS   
 7. W. Coulton, et al (incl. **Frank J Qu**) (2024) The Atacama Cosmology Telescope: Detection of Patchy Screening of the Cosmic Microwave Background
