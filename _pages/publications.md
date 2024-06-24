@@ -11,10 +11,12 @@ author_profile: true
 
 ##  Papers led or co-led (first, second or third author papers or equivalent collaboration papers)
 
-1. Niall MacCrann, **Frank J. Qu**, Toshiya Namikawa et al. (2024) **The Atacama Cosmology Telescope: Reionization kSZ trispectrum methodology and limits** *MNRAS to appear*  [preprint](https://arxiv.org/abs/2405.01188)
 
+1.  **Frank J. Qu**, Marius Millea and Emmanuel Schaan (2024) **Impact & Mitigation of Polarized Extragalactic Foregrounds on Bayesian Cosmic Microwave Background Lensing** *PRD to appear*  [preprint](https://arxiv.org/abs/2406.15351)
+1. Niall MacCrann, **Frank J. Qu**, Toshiya Namikawa et al. (2024) **The Atacama Cosmology Telescope: Reionization kSZ trispectrum methodology and limits** *MNRAS to appear*  [preprint](https://arxiv.org/abs/2405.01188)
 1. **Frank J. Qu**, Kristen M. Surrao, Boris Bolliet et al. (2024) **Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing** *Submitted to PRL*  [preprint](https://arxiv.org/pdf/2404.16805)
-2. Mathew Madhavacheril, **Frank J. Qu**, Blake D. Sherwin, Niall MacCrann et al. (2023) **The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/acff5f)*  [preprint](https://arxiv.org/abs/2304.05203 )
+1. **Frank J. Qu**, Blake D. Sherwin, Mathew Madhavacheril, Dongwon Han, et al. (2023) **The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Implications for Structure Growth** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/acfe06)* [preprint](https://arxiv.org/abs/2304.05202)
+2. Mathew Madhavacheril, **Frank J. Qu**, Blake D. Sherwin, Niall MacCrann et al. (2023) **The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/acff5f)*  [preprint](https://arxiv.org/abs/2304.05203)
 3. Niall MacCrann, Blake D. Sherwin, **Frank J. Qu**, Toshiya Namikawa et al. (2023) **The Atacama Cosmology Telescope: Mitigating the impact of extragalactic foregrounds for the DR6 CMB lensing analysis** *[ApJ in press](https://iopscience.iop.org/article/10.3847/1538-4357/ad2610)*  [preprint](https://arxiv.org/abs/2304.05196)
 4. Zachary Atkins, Adriaan J. Duivenvoorden, William R. Coulton, **Frank J. Qu** et al (2023) **The Atacama Cosmology Telescope: Map-Based Noise Simulations for DR6**
 *[JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2023/11/073/meta)*
