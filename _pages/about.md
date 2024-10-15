@@ -14,16 +14,13 @@ redirect_from:
 </blockquote>
 
 
-I am a Postdoctoral Fellow in cosmology at the University of Cambridge working with Blake Sherwin. 
+I am a KIPAC Fellow at SLAC in Stanford University
 My research focuses on turning microwave data collected from telescopes into insights about our Universe.
 
 I am a member of the Simons Observatory and the Atacama Cosmology Telescope.
 
 **About me**
-
-Starting from this fall, I will be a KIPAC fellow at Stanford University.
-
-
+* 2023-2024: Postdoctoral fellow, University of Cambridge
 * 2019-2023: PhD at DAMTP and KICC. University of Cambridge
 * 2018-2019: MASt in applied mathematics and theoretical physics. University of Cambridge
 * 2015-2018: BSc in physics at Imperial College London
