@@ -11,7 +11,8 @@ author_profile: true
 
 ##  Papers led or co-led (first, second or third author papers or equivalent collaboration papers)
 
-
+1. **Frank J. Qu**, Qianjun Hang, Gerrit Farren, Boris Bolliet et al. (2024) **The Atacama Cosmology Telescope DR6 and DESI: Structure growth measurements from the cross-correlation of DESI Legacy Imaging galaxies and CMB lensing from ACT DR6 and *Planck* PR4** *submitted to PRD*  [preprint](https://arxiv.org/abs/2410.10808)
+1. Gerrit Farren, Alex Krolewski,**Frank J. Qu**, Simone Ferraro et al. (2024) **The Atacama Cosmology Telescope: Multi-probe cosmology with unWISE galaxies and ACT DR6 CMB lensing** *PRD*  [preprint](https://arxiv.org/abs/2409.02109)
 1.  **Frank J. Qu**, Marius Millea and Emmanuel Schaan (2024) **Impact & Mitigation of Polarized Extragalactic Foregrounds on Bayesian Cosmic Microwave Background Lensing** *PRD to appear*  [preprint](https://arxiv.org/abs/2406.15351)
 1. Niall MacCrann, **Frank J. Qu**, Toshiya Namikawa et al. (2024) **The Atacama Cosmology Telescope: Reionization kSZ trispectrum methodology and limits** *MNRAS to appear*  [preprint](https://arxiv.org/abs/2405.01188)
 1. **Frank J. Qu**, Kristen M. Surrao, Boris Bolliet et al. (2024) **Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing** *Submitted to PRL*  [preprint](https://arxiv.org/pdf/2404.16805)
@@ -25,6 +26,7 @@ author_profile: true
 6. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123540)
 
 ## Papers where I am a contributing author
+7. F. MacCarthy, et al (incl. **Frank J Qu**) (2024) The Atacama Cosmology Telescope: Large-scale velocity reconstruction with the kinematic Sunyaev--Zel'dovich effect and DESI LRGs
 7. L. Wenzl, et al (incl. **Frank J Qu**) (2024) The Atacama Cosmology Telescope: DR6 Gravitational Lensing and SDSS BOSS cross-correlation measurement and constraints on gravity with the Eg statistic
 7. Alex Laguë, Fiona McCarthy, Mathew Madhavacheril, J. Colin Hill, **Frank J Qu** (2024) Constraints on Dark Matter-Dark Energy Scattering from ACT DR6 CMB Lensing
 7. L. Wenzl, et al (incl. **Frank J Qu**) (2024) Constraining gravity with a new precision $E_g$ estimator using *Planck*+ SDSS BOSS   
