@@ -26,7 +26,9 @@ author_profile: true
 6. **Frank J. Qu**, Blake D. Sherwin, Omar Darwish, Toshiya Namikawa, Mathew Madhavacheril (2022) **Probing early structure and model-independent neutrino mass with high-redshift CMB lensing mass maps** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123540)
 
 ## Papers where I am a contributing author
+7. Shao, Givans, Dunkley, Madhavacheril, Qu et al (2024) Cosmological limits on the neutrino mass sum for beyond-LCDM models
 7. F. MacCarthy, et al (incl. **Frank J Qu**) (2024) The Atacama Cosmology Telescope: Large-scale velocity reconstruction with the kinematic Sunyaev--Zel'dovich effect and DESI LRGs
+7.  B. Hadzhyska, et al (incl. **Frank J Qu**) (2024) Evidence for large baryonic feedback at low and intermediate redshifts from kinematic Sunyaev-Zel'dovich observations with ACT and DESI photometric galaxies
 7. L. Wenzl, et al (incl. **Frank J Qu**) (2024) The Atacama Cosmology Telescope: DR6 Gravitational Lensing and SDSS BOSS cross-correlation measurement and constraints on gravity with the Eg statistic
 7. Alex Laguë, Fiona McCarthy, Mathew Madhavacheril, J. Colin Hill, **Frank J Qu** (2024) Constraints on Dark Matter-Dark Energy Scattering from ACT DR6 CMB Lensing
 7. L. Wenzl, et al (incl. **Frank J Qu**) (2024) Constraining gravity with a new precision $E_g$ estimator using *Planck*+ SDSS BOSS   
