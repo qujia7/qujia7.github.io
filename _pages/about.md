@@ -14,7 +14,8 @@ redirect_from:
 </blockquote>
 
 
-I am a KIPAC Fellow at [SLAC](https://www6.slac.stanford.edu/) in Stanford University
+I am a KIPAC Fellow at [SLAC](https://www6.slac.stanford.edu/) in Stanford University.
+
 My research focuses on turning microwave data collected from telescopes into insights about our Universe.
 
 I am a member of the Atacama Cosmology Telescope and The Simons Observatory where I act as the co-lead of the CMB lensing working group.
