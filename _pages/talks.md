@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Selected Talks**
+* [IOA 50 New frontiers of astronomy](https://www.youtube.com/watch?v=Ob0z4FOfQUE&ab_channel=CambridgeUniversityAstronomy) 22/07/2024
+* Cosmology seminar at Helsinki Institute of Physics 17/05/2024
 * [Rencontres de Moriond 2024](https://moriond.in2p3.fr/2024/Cosmology/cosmology-agenda.html) 01/04/2024
 * [Rencontres du Vietnam 2023](http://vietnam.in2p3.fr/2023/windows/transparencies/02_tuesday/Astro_4/01_Qu.pdf) 08/08/2023
 * SO:UK Collaboration meeting (Cambridge) 16/06/2023
