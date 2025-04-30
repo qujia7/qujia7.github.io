@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Selected Talks**
+* UC Davis Cosmology seminar 24/04/2025
+* [Cosmoverse seminar](https://www.youtube.com/watch?v=XG-f0uJuxQQ&t=403s&ab_channel=CosmoVerseCOSTAction) 17/04/2025
 * [IOA 50 New frontiers of astronomy](https://www.youtube.com/watch?v=Ob0z4FOfQUE&ab_channel=CambridgeUniversityAstronomy) 22/07/2024
 * Cosmology seminar at Helsinki Institute of Physics 17/05/2024
 * [Rencontres de Moriond 2024](https://moriond.in2p3.fr/2024/Cosmology/cosmology-agenda.html) 01/04/2024
