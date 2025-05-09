@@ -12,7 +12,7 @@ author_profile: true
 ##  Papers led or co-led (first, second or third author papers or equivalent collaboration papers)
 
 
-1. Irene Abril-Cabezas, **Frank J. Qu**, Blake D. Sherwin et al. (2025) **TImpact of Galactic non-Gaussian foregrounds on CMB lensing measurements** [preprint](https://arxiv.org/pdf/2505.03737)
+1. Irene Abril-Cabezas, **Frank J. Qu**, Blake D. Sherwin et al. (2025) **The Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements** [preprint](https://arxiv.org/pdf/2505.03737)
 1. **Frank J. Qu** et al. (2025) **The Atacama Cosmology Telescope and South Pole Telescope: Unified and consistent structure growth measurements from joint ACT, SPT and Planck CMB lensing**
  [preprint](https://arxiv.org/abs/2504.20038)
 1. **Frank J. Qu**, Qianjun Hang, Gerrit Farren, Boris Bolliet et al. (2024) **The Atacama Cosmology Telescope DR6 and DESI: Structure growth measurements from the cross-correlation of DESI Legacy Imaging galaxies and CMB lensing from ACT DR6 and Planck PR4** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.103503)  [preprint](https://arxiv.org/abs/2410.10808)
