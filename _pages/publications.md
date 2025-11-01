@@ -14,7 +14,7 @@ author_profile: true
 
 1. Irene Abril-Cabezas, **Frank J. Qu**, Blake D. Sherwin et al. (2025) **The Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements** [preprint](https://arxiv.org/pdf/2505.03737)
 1. **Frank J. Qu** et al. (2025) **The Atacama Cosmology Telescope and South Pole Telescope: Unified and consistent structure growth measurements from joint ACT, SPT and Planck CMB lensing**
- [preprint](https://arxiv.org/abs/2504.20038)
+ [preprint](https://arxiv.org/abs/2504.20038), Accepted to *Physical Review Letters*
 1. **Frank J. Qu**, Qianjun Hang, Gerrit Farren, Boris Bolliet et al. (2024) **The Atacama Cosmology Telescope DR6 and DESI: Structure growth measurements from the cross-correlation of DESI Legacy Imaging galaxies and CMB lensing from ACT DR6 and Planck PR4** [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.103503)  [preprint](https://arxiv.org/abs/2410.10808)
 1. Gerrit Farren, Alex Krolewski,**Frank J. Qu**, Simone Ferraro et al. (2024) **The Atacama Cosmology Telescope: Multi-probe cosmology with unWISE galaxies and ACT DR6 CMB lensing** [PhysRevD](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.111.083516) [preprint](https://arxiv.org/abs/2409.02109)
 1.  **Frank J. Qu**, Marius Millea and Emmanuel Schaan (2024) **Impact & Mitigation of Polarized Extragalactic Foregrounds on Bayesian Cosmic Microwave Background Lensing** *PRD*  [preprint](https://arxiv.org/abs/2406.15351)
