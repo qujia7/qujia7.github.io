@@ -31,5 +31,11 @@ I am Spanish 🇪🇸 Æ and I was born in [Hailar](https://en.wikipedia.org/wik
 I can be reached at jq247[at]cantab[dot]ac[dot]uk
 
 
+=======
+Starting this fall I will be a KIPAC fellow at Stanford University
+*2019-2023: PhD University of Cambridge DAMTP/KICC
+*2018: MASt in Theoretical Physics Cambridge
+* 2015-2018: Bsc in physics Imperial College London
+  
 
 
