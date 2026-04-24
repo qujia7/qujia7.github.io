@@ -14,7 +14,8 @@ redirect_from:
 </blockquote>
 
 
-I am a KIPAC Fellow at [SLAC](https://www6.slac.stanford.edu/) in Stanford University.
+I am a KIPAC Fellow at [SLAC](https://www6.slac.stanford.edu/) in Stanford University,
+and an incoming **NASA Hubble Fellow** at Stanford (starting Fall 2026).
 
 My research focuses on turning microwave data collected from telescopes into insights about our Universe.
 
